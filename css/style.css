@@ -95,7 +95,7 @@ main {
 }
 
 .first-screen {
-  background-image: url("/img/bgcfirst-screen.png");
+  background-image: url("img/bgcfirst-screen.png");
   height: 100%;
 }
 
